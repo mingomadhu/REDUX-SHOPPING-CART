@@ -1,5 +1,7 @@
 # Redux Shopping Cart
 
+Demo link (http://localhost:3000/)
+
 
 **Shopping Cart Project** built with **React** + **Redux-Toolkit**.
 
@@ -29,10 +31,9 @@
 
 ## Available Scripts:
 
+#### `cd project name`
+
+#### `npm install`
+
 #### `npm start`
 
-#### `npm test`
-
-#### `npm run build`
-
-#### `npm run eject`
